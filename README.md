@@ -1,4 +1,8 @@
 ## Leetcode
 # Bunch of leetcode problems
 
-763. Partition Labels -> https://leetcode.com/problems/partition-labels/
+
+| # | Title | Difficulty | Solution |
+|---| ----- | ---------- | -------- |
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium||
+
