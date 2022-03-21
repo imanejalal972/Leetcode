@@ -4,5 +4,5 @@
 
 | # | Title | Difficulty | Solution |
 |---| ----- | ---------- | -------- |
-|763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium||
+|763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Java]|
 
