@@ -1,6 +1,6 @@
 ## Leetcode
 # Bunch of leetcode problems
-
+Everyday, I will be posting a new challenge!
 
 | # | Title | Difficulty | Solution |
 |---| ----- | ---------- | -------- |
