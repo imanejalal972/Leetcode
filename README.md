@@ -9,7 +9,7 @@ Everyday, I will be posting a new challenge!
 |[991](./algorithms/Java/BrokenCalculator/BrokenCalculator.docx)|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|Medium|[Java](./algorithms/Java/BrokenCalculator/BrokenCalculator.java)|
 |[881](./algorithms/Java/BoatstoSavePeople/BoatstoSavePeople.docx)|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium|[Java](./algorithms/Java/BoatstoSavePeople/BoatstoSavePeople.java)|
 |[763](./algorithms/Java/PartitionLabels/PartitionLabels.docx)|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Java](./algorithms/Java/PartitionLabels/PartitionLabels.java)|
-|[704](./algorithms/Java/BinarySearch/BinarySearch.docx)|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[C#](./algorithms/C#/BinarySearch/BinarySearch.cs), [C++](./algorithms/C++/BinarySearch/BinarySearch.cpp), [C](./algorithms/C/BinarySearch/BinarySearch.c), [Java](./algorithms/Java/BinarySearch/BinarySearch.java)|
+|[704](./algorithms/Java/BinarySearch/BinarySearch.docx)|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[C++](./algorithms/C++/BinarySearch/BinarySearch.cpp), [C](./algorithms/C/BinarySearch/BinarySearch.c), [C#](./algorithms/Csharp/BinarySearch/BinarySearch.cs), [Java](./algorithms/Java/BinarySearch/BinarySearch.java)|
 
 
 
