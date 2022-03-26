@@ -9,6 +9,7 @@ Everyday, I will be posting a new challenge!
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/)|Medium|[Java](./algorithms/Java/BrokenCalculator/BrokenCalculator.java)|
 |881|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium|[Java](./algorithms/Java/BoatstoSavePeople/BoatstoSavePeople.java)|
 |763|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Java](./algorithms/Java/PartitionLabels/PartitionLabels.java)|
+|704(./algorithms/Java/BinarySearch/BinarySearch.docx)|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[Java](./algorithms/Java/BinarySearch/BinarySearch.java)|
 
 
 
