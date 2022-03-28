@@ -11,6 +11,7 @@ Everyday, I will be posting a new challenge!
 |[881](./algorithms/Java/BoatstoSavePeople/BoatstoSavePeople.docx)|[Boats to Save People](https://leetcode.com/problems/boats-to-save-people/)|Medium|[Java](./algorithms/Java/BoatstoSavePeople/BoatstoSavePeople.java)|
 |[763](./algorithms/Java/PartitionLabels/PartitionLabels.docx)|[Partition Labels](https://leetcode.com/problems/partition-labels)|Medium|[Java](./algorithms/Java/PartitionLabels/PartitionLabels.java)|
 |[704](./algorithms/Java/BinarySearch/BinarySearch.docx)|[Binary Search](https://leetcode.com/problems/binary-search/)|Easy|[C++](./algorithms/C++/BinarySearch/BinarySearch.cpp), [C](./algorithms/C/BinarySearch/BinarySearch.c), [C#](./algorithms/Csharp/BinarySearch/BinarySearch.cs), [Java](./algorithms/Java/BinarySearch/BinarySearch.java)|
+|[81](./algorithms/Java/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.docx)|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[C++](./algorithms/C++/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.cpp), [C](./algorithms/C/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.c), [C#](./algorithms/Csharp/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.cs), [Java](./algorithms/Java/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.java)|
 
 
 
