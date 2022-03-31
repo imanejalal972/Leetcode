@@ -1,4 +1,4 @@
-```diff
+
 - text in red
 + text in green
 ! text in orange
@@ -9,6 +9,7 @@
 ## Bunch of leetcode problems with solutions ##
 Everyday, I will be posting a new challenge!
 
+```diff
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
 @@|[1663](./algorithms/Java/SmallestStringWithAGivenNumericValue/SmallestStringWithAGivenNumericValue.docx)|[Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)|Medium|[Java](./algorithms/Java/SmallestStringWithAGivenNumericValue/SmallestStringWithAGivenNumericValue.java)|
@@ -22,7 +23,7 @@ Everyday, I will be posting a new challenge!
 |[287](./algorithms/Java/FindtheDuplicateNumber/FindtheDuplicateNumber.docx)|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|Medium|[C++](./algorithms/C++/FindtheDuplicateNumber/FindtheDuplicateNumber.cpp), [Java](./algorithms/Java/FindtheDuplicateNumber/FindtheDuplicateNumber.java)|
 |[81](./algorithms/Java/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.docx)|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|Medium|[C++](./algorithms/C++/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.cpp), [C](./algorithms/C/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.c), [C#](./algorithms/Csharp/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.cs), [Java](./algorithms/Java/SearchinRotatedSortedArrayII/SearchinRotatedSortedArrayII.java)|
 |[74](./algorithms/Java/Searcha2DMatrix/Searcha2DMatrix.docx)|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|Medium|[Java](./algorithms/Java/Searcha2DMatrix/Searcha2DMatrix.java)|
-
+```
 
 
 
@@ -35,5 +36,3 @@ You are ***always welcome*** to contribute.
 - [x] Fork this repository.
 - [x] Do your desired changes.
 - [x] Make a pull request.
-
-```
