@@ -1,3 +1,10 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # Leetcode #
 ## Bunch of leetcode problems with solutions ##
 Everyday, I will be posting a new challenge!
